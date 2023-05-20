@@ -1,3 +1,6 @@
 Hola soy Jose Cotos
 DBA Master en Oracle
 Trabajo en el CIP-CN
+
+Estoy aprendiendo GIT en Platzi
+estoy muy feliz!
